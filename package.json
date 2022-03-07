@@ -1,0 +1,20 @@
+{
+  "name": "myfirst_project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ronasolin12/Myfirst_Project.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ronasolin12/Myfirst_Project/issues"
+  },
+  "homepage": "https://github.com/ronasolin12/Myfirst_Project#readme"
+}
