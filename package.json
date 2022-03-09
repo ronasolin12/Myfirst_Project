@@ -21,7 +21,9 @@
   "dependencies": {
     "body-parser": "^1.19.2",
     "express": "^4.17.3",
-    "nodemon": "^2.0.15",
     "save-dev": "0.0.1-security"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
   }
 }
